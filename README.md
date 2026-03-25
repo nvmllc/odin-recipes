@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is creating a website about recipes. In this project I will show that I am able to to create a website with the knowledge I've learned over the past few weeks.
